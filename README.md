@@ -455,37 +455,42 @@ Welcome Admin
 
 ## Login Page
 
-Add:
+<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/38fd5e3a-96e0-4f7b-a29b-61acf9e1ece9" />
 
-```markdown
-![Login Page](screenshots/login.png)
-```
 
 ## User Dashboard
 
-Add:
+<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/460e795a-ca39-4a38-a895-0d10af19f4bb" />
 
-```markdown
-![User Dashboard](screenshots/user-dashboard.png)
-```
 
 ## Admin Dashboard
 
-Add:
+<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/618a9862-9554-4b8a-a681-4501f7289b80" />
 
-```markdown
-![Admin Dashboard](screenshots/admin-dashboard.png)
-```
 
 ## Postman Testing
 
-Add:
+<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/621aa878-20e8-4a68-a099-3015efbb7758" />
 
-```markdown
-![Postman Testing](screenshots/postman-login.png)
-```
 
----
+<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/a031599a-8be4-4d59-bdd5-a24d6318536f" />
+
+
+<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/fca0ca10-1f35-403a-b458-7cd1ec920326" />
+
+
+<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/96e0f7b6-355d-4167-a3af-f4bb460eda26" />
+
+
+<img width="1920" height="1080" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/cb1c9fc6-e617-44c1-b2a8-4feccb7c0318" />
+
+
+<img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/946f1ecd-9be7-4b5e-a6b6-489214d97e76" />
+
+
+
+
+
 
 # Installation
 
@@ -559,7 +564,5 @@ This project demonstrates:
 ## Author
 
 **Laxman Ghodke**
-
-**Final Year B.E. Information Technology Project**
 
 **RBAC Authentication System using Spring Boot, React and JWT**
